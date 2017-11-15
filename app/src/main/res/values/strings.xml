@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestUI</string>
+    <string name="screen1">1</string>
+    <string name="screen2">2</string>
+    <string name="screen3">3</string>
+    <string name="screen4">4</string>
+    <string name="screen5">5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="translate">Translate</string>
+
+    <string-array name="language">
+
+        <item>En-ru</item>
+        <item>Ru-en</item>
+    </string-array>
+</resources>
